@@ -1,0 +1,105 @@
+*{
+    margin: auto;
+}
+#encabezado{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(77, 197, 245);
+    border-radius: 10px;
+}
+
+#tituloE{
+    padding-top: 27px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+#imagen{
+    float: right;
+    height: 60px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+#franjaInferior{
+    width: 100%;
+    height:35px;
+    background-color: rgb(209, 253, 49);
+    border-radius: 10px;
+}
+
+#textoF{
+    text-align: center;
+    padding-top: 5px;
+}
+
+#caja1{
+    width: 18%;
+    height: 300px;
+    background-color: red;
+    float: left;
+    margin-top: 120px;
+    margin-left: 270px;
+    padding: 20px;
+    border: 10px;
+}
+
+#header1{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(214, 210, 210);
+}
+
+#datos{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(98, 223, 26);
+    margin-top: 20px;
+}
+
+#caja2{
+    width: 18%;
+    height: 300px;
+    background-color: blue;
+    float: left;
+    margin-top: 120px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 10px;
+}
+
+#header2{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(214, 210, 210);
+}
+
+#datos2{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(98, 223, 26);
+    margin-top: 20px;
+}
+
+#caja3{
+    width: 18%;
+    height: 300px;
+    background-color: purple;
+    float: left;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+
+#caja4{
+    width: 18%;
+    height: 300px;
+    background-color: black;
+    float: left;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+
+
+
+
+
